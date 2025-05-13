@@ -1,6 +1,3 @@
-# Employee-Management-System
-# Employee Management System
-
 ## Project Description
 This is an Employee Management System consisting of a backend server and a frontend client application. The backend is built with Node.js and Express, providing RESTful API endpoints. The frontend is built with React for managing employee data and user interactions.
 
